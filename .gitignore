@@ -3,7 +3,7 @@
 *.classpath
 *.properties
 *.project
-settings/
+.settings/
 target/
 
 # Log file
