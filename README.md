@@ -68,7 +68,7 @@ Example of signs of the right drection:
 * Add command line options to change default config file names, search for other projects other than "Reactive", etc
 * Add support for authenticating on GitHub
 * Add more output file format support
-* More unit tests
+* Better unit tests
 
 ## Built With
 
