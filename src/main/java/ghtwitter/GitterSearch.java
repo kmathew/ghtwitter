@@ -6,8 +6,8 @@ import java.util.ArrayList;
 import java.util.List;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import twitter.TwitterSearch;
 import twitter.Tweet;
+import twitter.TwitterSearch;
 
 /**
  * This class leverages the GHTwitter object model and constructs a list of projects with their
@@ -25,6 +25,8 @@ public class GitterSearch {
 
   /**
    * Default constructor.
+   * 
+   * Assuming secrets is a valid list.
    * 
    */
   public GitterSearch() {
