@@ -68,8 +68,8 @@ public class GitterSearch {
   }
 
   /**
-   * Pulls a list of projects on GitHub from the specified page.
-   * GitHub rate limits to 60 pages of 100 elements per hour
+   * Pulls a list of projects on GitHub from the specified page. GitHub rate limits to 60 pages of
+   * 100 elements per hour
    * 
    * @param pageNum page number index to pull from
    * @return array list of projects
