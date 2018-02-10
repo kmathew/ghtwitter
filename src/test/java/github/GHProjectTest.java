@@ -1,11 +1,11 @@
 package github;
 
-import static org.junit.Assert.*;
-
 import org.junit.Before;
 import org.junit.Test;
 
-public class GHProjectTest {
+import junit.framework.TestCase;
+
+public class GHProjectTest  extends TestCase{
 
 	private Project p;
 	

@@ -1,7 +1,5 @@
 package ghtwitter;
 
-import static org.junit.Assert.*;
-
 import java.util.ArrayList;
 
 import org.junit.Before;
@@ -9,8 +7,9 @@ import org.junit.Test;
 
 import twitter.Tweet;
 import github.Project;
+import junit.framework.TestCase;
 
-public class GHTwitterTest {
+public class GHTwitterTest  extends TestCase{
 
 	private GHTwitter ght;
 	private Project p;

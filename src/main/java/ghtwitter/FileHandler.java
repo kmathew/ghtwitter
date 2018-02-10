@@ -22,6 +22,10 @@ public class FileHandler {
 		this.outputFileName = output;
 	}
 
+	public String getFileName() {
+		return this.outputFileName;
+	}
+	
 	public void setFileName(String fileName) {
 		this.outputFileName = fileName;
 	}
