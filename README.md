@@ -8,9 +8,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Maven
-JDK 1.8
-IDE (Optional - only if you want modify rates)
+* Maven
+* JDK 1.8
+* IDE (Optional - only if you want modify rates)
 
 ### Installing
 
@@ -47,7 +47,6 @@ You can run the compiled jar package with the following command:
 
 ```
 java -jar ghtwitter-0.1.0.jar
-
 ```
 
 Example of signs of the right drection:
